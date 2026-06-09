@@ -36,3 +36,8 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Temporary demo files
+demo.py
+design_your_life.py
+interactive_demo.py
